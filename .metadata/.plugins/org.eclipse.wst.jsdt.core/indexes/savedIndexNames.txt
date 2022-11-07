@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\dipak\OneDrive\Desktop\dipak.workplace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1456907917.index
+4217399218.index
+1172486073.index
+2499973219.index
+3217427963.index
+1608178725.index
